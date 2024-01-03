@@ -1,0 +1,104 @@
+.cont{
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    transform: scale(1.1);
+}
+
+.txt{
+    display: flex;
+    justify-content: center;
+    background-color: #040d0ef0;
+    font-weight: bolder;
+    margin-top: 5rem;
+    border-radius: 25px;
+    margin-left: 1px;
+    margin-right: 1px;
+    color: #f41010         ;
+}
+.age{ 
+    display: flex;
+    justify-content: center;
+    margin-top: -2.5rem;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 68px;
+    flex-direction: row;
+    border-radius: 25rem;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+.txt2{
+    display: flex;
+    justify-content: center;
+    background-color: #030e10f0;
+    font-weight: bolder;
+    margin-top: 2rem;
+    border-radius: 25px;
+    margin-left: 2px;
+    margin-right: 2px;
+    color:#f41010;
+}
+.fav{
+    display: flex;
+    justify-content: center;
+    margin-top: -0.5rem;
+    flex-direction: column;
+    list-style-type: none;
+    padding:10px;
+    flex-direction: row;
+    border-radius: 25rem;
+    
+}
+.fav1 {
+    display: flex;
+    justify-content: center;
+    margin-top: -1rem;
+    margin-bottom: -1rem;
+    margin-left: -1.5rem; /* Increase left margin */
+    margin-right: -1.5rem; /* Increase right margin */
+    flex-direction: column;
+    list-style-type: none;
+    padding: 10px;
+    border-radius: 25rem;
+    width: 100%;
+}
+.fav2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -2.5rem;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 68px;
+    flex-direction: row;
+    border-radius: 25rem;
+    width: 130px; /* Adjust the width as needed */
+    height: 130px; /* Adjust the height as needed */
+    margin-left: 37%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    display: flex; 
+    flex-direction: column;
+    background-color: #b0bdbd;
+    color: #191717;
+    padding: 5px; /* Reduced padding */
+    text-align: center;
+    font-size: 14px; /* Reduced font size */
+}
+.contact-info{
+    padding-right: 40% ;
+}
+.links{
+    margin-top:-110px;
+
+}
+.social-media{
+    margin-top:-108px;
+    padding-left: 40%;
+}
