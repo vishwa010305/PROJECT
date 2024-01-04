@@ -4,7 +4,7 @@
     flex-direction: column;
     margin: auto;
     margin-top: 1px;
-    background: url("C:\Users\vishw\OneDrive\Documents\GitHub\React_IRC\Project\myapp\src\assets\images\Loimg.jpg");
+    background: url("../images/Loimg.jpg");
     background-size: cover;
     background-position: center; 
     height: 650px; 
