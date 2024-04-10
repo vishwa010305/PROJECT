@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <h1>Preview<h1>
   
 <h2>Login Page</h2>
-<img>https://github.com/vishwa010305/PROJECT/blob/main/src/assets/screenshots/Screenshot%20(84).png</img>
+<img>https://github.com/vishwa010305/PROJECT/screenshots/Screenshot%20(84).png</img>
